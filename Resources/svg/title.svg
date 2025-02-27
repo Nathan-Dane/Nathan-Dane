@@ -1,0 +1,71 @@
+<svg fill="none" width="100%"  xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+		.wrapper {
+		height: fit-content;
+		width: 100vw;
+		}
+
+		.type-box {
+		width: fit-content;
+		animation: blink .5s step-end infinite alternate;
+		}
+
+		.text {
+		visibility: hidden;
+		position: absolute;
+		white-space: nowrap;
+		overflow: hidden;
+		font-family: Monospace;
+		font-size: 1.5em;
+		background: white;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		}
+
+		#t1 {
+			width: 12ch;
+			animation: typing 2s steps(12) forwards, deleting 0.4s steps(12) 2s forwards;
+		}
+		#t2 {
+			width: 28ch;
+			animation: typing 3.4s steps(28) 2.6s forwards, deleting 0.7s steps(28) 6s forwards;
+		}
+		#t3 {
+			width: 11ch;
+			animation: typing 2.5s steps(11) 7.5s forwards;
+		}
+
+		@keyframes typing {
+			from { width: 0; visibility: visible; }
+			1% { position: relative; }
+			to { visibility: visible; position: relative; }
+		}
+		@keyframes deleting {
+			99% { position: relative; }
+			to { width: 0; position: absolute; visibility: hidden; }
+		}
+
+		@keyframes blink {
+			from, to { border-right: 0; }
+			50% { border-right: 2px solid rgb(24, 237, 226); }
+		}
+	</style>
+
+    <div class="wrapper">
+      <div class="type-box">
+        <div id="t1" class="text">
+          Coding geniu
+        </div>
+        <div id="t2" class="text">
+          The greatest mind in computi
+        </div>
+        <div id="t3" class="text">
+          I do stuff.
+        </div>
+      </div>
+    </div>
+  </div>
+ </foreignObject>
+</svg>
