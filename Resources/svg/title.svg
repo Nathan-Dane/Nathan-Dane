@@ -59,7 +59,9 @@
         /* Light/dark mode support */
       @media (prefers-color-scheme: light) {
         .text {
-            background: #000000;
+            background: black;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
       }
 	  </style>
