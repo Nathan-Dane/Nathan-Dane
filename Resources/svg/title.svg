@@ -44,6 +44,7 @@
 		to { visibility: visible; position: relative; }
 		}
 		@keyframes deleting {
+		from { position: relative; }
 		99% { position: relative; }
 		to { width: 0; position: absolute; visibility: hidden; }
 		}
