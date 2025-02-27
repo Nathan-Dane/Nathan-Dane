@@ -58,12 +58,9 @@
 
         /* Light/dark mode support */
       @media (prefers-color-scheme: light) {
-        html[data-color-mode="auto"] .text {
-        background: #000000;
+        .text {
+            background: #000000;
         }
-      }
-      html[data-color-mode="light"] .text, {
-        background: #000000; 
       }
 	  </style>
 
