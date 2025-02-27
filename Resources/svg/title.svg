@@ -9,6 +9,7 @@
 
 		.type-box {
 		width: fit-content;
+		height: 2.8ch;
 		animation: blink .5s step-end infinite alternate;
 		}
 
@@ -25,31 +26,31 @@
 		}
 
 		#t1 {
-			width: 12ch;
-			animation: typing 2s steps(12) forwards, deleting 0.4s steps(12) 2s forwards;
+		width: 12ch;
+		animation: typing 2s steps(12) forwards, deleting 0.4s steps(12) 2s forwards;
 		}
 		#t2 {
-			width: 28ch;
-			animation: typing 3.4s steps(28) 2.6s forwards, deleting 0.7s steps(28) 6s forwards;
+		width: 28ch;
+		animation: typing 3.4s steps(28) 2.6s forwards, deleting 0.7s steps(28) 6s forwards;
 		}
 		#t3 {
-			width: 11ch;
-			animation: typing 2.5s steps(11) 7.5s forwards;
+		width: 11ch;
+		animation: typing 2.5s steps(11) 7.5s forwards;
 		}
 
 		@keyframes typing {
-			from { width: 0; visibility: visible; }
-			1% { position: relative; }
-			to { visibility: visible; position: relative; }
+		from { width: 0; visibility: visible; }
+		1% { position: relative; }
+		to { visibility: visible; position: relative; }
 		}
 		@keyframes deleting {
-			99% { position: relative; }
-			to { width: 0; position: absolute; visibility: hidden; }
+		99% { position: relative; }
+		to { width: 0; position: absolute; visibility: hidden; }
 		}
 
 		@keyframes blink {
-			from, to { border-right: 0; }
-			50% { border-right: 2px solid rgb(24, 237, 226); }
+		from, to { border-right: 2px solid rgb(24, 237, 226); }
+		50% { border-right: 0; }
 		}
 	</style>
 
