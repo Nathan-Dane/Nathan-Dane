@@ -1,5 +1,7 @@
 <div>
- <img class="image" src="Resources/svg/title.svg" width="450">
+    <picture>
+        <img class="image" src="Resources/svg/title.svg" width="450">
+    </picture>
 </div>
 
 <div align="center">
