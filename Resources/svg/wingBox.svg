@@ -60,7 +60,7 @@
                         --fg: black;
                     }
                     #box-content-fill {
-                        background: #00000020;
+                        background: #0000000B;
                     }
                 }
             </style>
