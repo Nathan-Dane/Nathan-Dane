@@ -53,16 +53,6 @@
                     position: absolute;
                     color: var(--fg);
                 }
-
-                /* Light/dark mode support */
-                @media (prefers-color-scheme: light) {
-                    :root {
-                        --fg: black;
-                    }
-                    #box-content-fill {
-                        background: #0000000B;
-                    }
-                }
             </style>
 
             <div class="containerY">
