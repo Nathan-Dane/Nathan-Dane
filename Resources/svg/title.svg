@@ -10,7 +10,7 @@
         .type-box {
           width: fit-content;
           height: 2.8ch;
-          animation: blink .5s step-end infinite alternate;
+          animation: blink .5s step-end 22 alternate;
         }
 
         .text {
