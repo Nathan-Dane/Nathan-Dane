@@ -21,7 +21,7 @@
           overflow: hidden;
           font-family: monospace;
           font-size: 17px;
-          background: white;
+          background: black;
           opacity: .85;
           font-weight: bold;
           -webkit-background-clip: text;
@@ -66,7 +66,7 @@
             Coding geniu
           </div>
           <div id="t2" class="text">
-            The greatest mind in program
+            Why are you using light mode
           </div>
           <div id="t3" class="text">
             I do stuff.

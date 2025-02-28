@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 :root {
-                    --fg: white;
+                    --fg: black;
                 }
 
                 .containerY {
@@ -47,21 +47,11 @@
                 }
 
                 #box-content-fill {
-                    background: #ffffff10;
+                    background: #00000010;
                 }
                 #box-content-fill > * {
                     position: absolute;
                     color: var(--fg);
-                }
-
-                /* Light/dark mode support */
-                @media (prefers-color-scheme: light) {
-                    :root {
-                        --fg: black;
-                    }
-                    #box-content-fill {
-                        background: #0000000B;
-                    }
                 }
             </style>
 
