@@ -3,5 +3,7 @@
 </div>
 
 <div align="center">
-    <img class="image" src="Resources/svg/wingBox.svg" width="500">
+    <a href="https://github.com/NathanDagDane/Clickett">
+        <img class="image" src="Resources/svg/wingBox.svg" width="500">
+    </a>
 </div>
