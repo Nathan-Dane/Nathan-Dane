@@ -13,3 +13,9 @@
         </picture>
     </a>
 </div>
+
+<div>
+    <picture>
+        <img class="image" src="Resources/svg/icons.svg" width="100%">
+    </picture>
+</div>
