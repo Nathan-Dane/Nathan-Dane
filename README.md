@@ -1,15 +1,15 @@
 <div>
     <picture>
-        <source media="(prefers-color-scheme:light)" type="image/svg+xml" srcset="Resources/svg/title-light.svg">
-        <img class="image" src="Resources/svg/title.svg" width="450">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test/Resources/svg/title.svg">
+        <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test/Resources/svg/title-light.svg" width="450">
     </picture>
 </div>
 
 <div align="center">
     <a href="https://github.com/NathanDagDane/Clickett">
         <picture>
-            <source media="(prefers-color-scheme:light)" type="image/svg+xml" srcset="Resources/svg/wingBox-light.svg">
-            <img class="image" src="Resources/svg/wingBox.svg" width="500">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test/Resources/svg/wingBox.svg">
+            <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test/Resources/svg/wingBox-light.svg" width="500">
         </picture>
     </a>
 </div>
