@@ -16,10 +16,10 @@
 
 ---
 <div align="center" >
-    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons.svg" width="50px" hspace="2">
-    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
-    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
-    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
-    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
-    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/dark/icon.svg" width="50px" hspace="2" onmouseover="this.src='https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/light/icon.svg';" onmouseout="this.src='https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/dark/icon.svg';">
+    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
 </div>

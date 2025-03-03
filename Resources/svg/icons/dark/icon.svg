@@ -7,13 +7,13 @@
                     height: 30px;
                     width: 30px;
                     border-radius: 100%;
-                    background: blue;
+                    background: red;
                 }
                 #icon-container:hover{
                     transform: scale(1.1);
                 }
             </style>
-            <div id="icon-container" onmouseover="document.getElementById('icon-container').style.background='aqua';">
+            <div id="icon-container">
             </div>
         </div>
     </foreignObject>
