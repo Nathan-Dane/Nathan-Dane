@@ -16,10 +16,14 @@
 
 ---
 <div align="center" >
-    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/dark/icon.svg" width="50px" hspace="2" onmouseover="this.src='https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/light/icon.svg';" onmouseout="this.src='https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/dark/icon.svg';">
-    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
-    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
-    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
-    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
-    <img class="image" src="Resources/svg/icons/dark/icon.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons/Windows.svg"    width="128px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/Android.svg"    width="50px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/Apple.svg"      width="50px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/CSharp.svg"     width="50px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/Kotlin.svg"     width="50px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/TypeScript.svg" width="50px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/React.svg"      width="50px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/Python.svg"     width="50px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/MySQL.svg"      width="50px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/Firebase.svg"   width="50px" hspace="2">
 </div>
