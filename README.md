@@ -1,7 +1,7 @@
 <div>
     <picture>
-        <source media="(prefers-color-scheme:light)" type="image/svg+xml" srcset="Resources/svg/title-light.svg">
-        <img class="image" src="Resources/svg/title.svg" width="450">
+        <source media="(prefers-color-scheme:light)" type="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+        <img class="image" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg" width="450">
     </picture>
 </div>
 
