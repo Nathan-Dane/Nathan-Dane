@@ -14,8 +14,12 @@
     </a>
 </div>
 
-<div>
-    <picture>
-        <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons.svg" width="100%">
-    </picture>
+---
+<div align="center" >
+    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
+    <img class="image" src="Resources/svg/icons.svg" width="50px" hspace="2">
 </div>
