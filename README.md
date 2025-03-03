@@ -16,6 +16,6 @@
 
 <div>
     <picture>
-        <img class="image" src="Resources/svg/icons.svg" width="100%">
+        <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons.svg" width="100%">
     </picture>
 </div>
