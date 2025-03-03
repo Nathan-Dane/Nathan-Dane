@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg fill="none" viewBox="0 0 500 110" width="100%" height="60px" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 500 110" width="100%" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -10,7 +10,19 @@
                 }
             </style>
 
-            <div style="display: flex; justify-content:center; gap: 10px; height: 60px; width: 100%;">
+            <div style="display: flex; flex-wrap: wrap; justify-content:center; gap: 6px; height: 30px; width: 100%;">
+                <div class="icon-container" style="background: aqua">
+
+                </div>
+                <div class="icon-container" style="background: red">
+
+                </div>
+                <div class="icon-container" style="background: aqua">
+
+                </div>
+                <div class="icon-container" style="background: red">
+
+                </div>
                 <div class="icon-container" style="background: aqua">
 
                 </div>
