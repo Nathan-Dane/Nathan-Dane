@@ -7,7 +7,7 @@
                     height: 30px;
                     width: 30px;
                     border-radius: 100%;
-                    background: red;
+                    background: blue;
                 }
                 #icon-container:hover{
                     transform: scale(1.1);
