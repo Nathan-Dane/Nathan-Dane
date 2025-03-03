@@ -16,7 +16,7 @@
 
 ---
 <div align="center" >
-    <img class="image" src="Resources/svg/icons/Windows.svg"    width="128px" hspace="2">
+    <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/Windows.svg"    width="50px" hspace="2">
     <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/Android.svg"    width="50px" hspace="2">
     <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/Apple.svg"      width="50px" hspace="2">
     <img class="image" src="https://raw.githubusercontent.com/NathanDagDane/NathanDagDane/refs/heads/test-icons/Resources/svg/icons/CSharp.svg"     width="50px" hspace="2">
